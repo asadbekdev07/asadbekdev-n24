@@ -206,3 +206,9 @@ body {
 .site-header-banner-link {
   display: flex;
 }
+
+/* MAIN-CONTENT  */
+
+.main-content {
+  flex-grow: 1;
+}
