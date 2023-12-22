@@ -508,6 +508,10 @@ body {
   border-radius: 15px;
 }
 
+.news-list-sidebar-img {
+  height: 553px;
+}
+
 /* SITE-FOOTER  */
 
 .site-footer {
